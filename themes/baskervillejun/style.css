@@ -253,6 +253,7 @@ body a {
 .section-inner.thin { width: 700px; }
 
 .bg-dark { background-color: #1d1d1d; }
+.bg-orange { background-color: #ff9900; }
 .bg-graphite { background-color: #262626; }
 .bg-grey { background-color: #f1f1f1; }
 
@@ -424,7 +425,7 @@ body a {
 	display: block;
 	padding: 27px;
 	font-size: 0.85em;
-	color: #999;
+	color: #515152;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-weight: 700;
@@ -448,7 +449,7 @@ body a {
 	margin-top: -2px;
 }
 
-.main-menu li:hover > a { cursor: pointer; color: #fff; }
+.main-menu li:hover > a { cursor: pointer; color: #ec1c24; }
 
 .main-menu > .has-children:hover > a::after,
 .main-menu > .page_item_has_children:hover > a::after { border-top-color: #fff; }
@@ -2615,7 +2616,7 @@ p.form-submit { margin-top: 30px; }
 
 .credits p {
 	font-family: 'Roboto Slab', sans-serif;
-	color: #767676; 
+	color: #515152; 
 	font-size: 0.8rem;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -2625,7 +2626,7 @@ p.form-submit { margin-top: 30px; }
 .credits a { color: #ccc; }
 
 .credits a:hover { 
-	color: #ccc; 
+	color: #ec1c24; 
 	text-decoration: underline;
 }
 

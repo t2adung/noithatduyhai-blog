@@ -24,11 +24,11 @@
 
 		<a class="skip-link button" href="#site-content"><?php _e( 'Skip to the content', 'baskerville' ); ?></a>
 	
-		<div class="header section small-padding bg-dark bg-image" style="background-image: url( <?php echo esc_url( $background_image_url ); ?> );">
+		<div class="header section small-padding bg-orange bg-image" style="background-image: url( <?php echo esc_url( $background_image_url ); ?> );">
 		
 			<div class="cover"></div>
 			
-			<div class="header-search-block bg-graphite hidden">
+			<div class="header-search-block bg-orange hidden">
 				<?php get_search_form(); ?>
 			</div><!-- .header-search-block -->
 					
@@ -73,7 +73,7 @@
 						
 		</div><!-- .header -->
 		
-		<div class="navigation section no-padding bg-dark">
+		<div class="navigation section no-padding bg-orange">
 		
 			<div class="navigation-inner section-inner">
 			
@@ -125,7 +125,7 @@
 			
 		</div><!-- .navigation -->
 		
-		<div class="mobile-navigation section bg-graphite no-padding hidden">
+		<div class="mobile-navigation section bg-orange no-padding hidden">
 					
 			<ul class="mobile-menu">
 			

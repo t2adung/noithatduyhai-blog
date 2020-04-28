@@ -1,4 +1,4 @@
-<div class="footer section medium-padding bg-graphite">
+<div class="footer section medium-padding bg-orange">
 
 	<?php if ( is_active_sidebar( 'footer-a' ) || is_active_sidebar( 'footer-b' ) || is_active_sidebar( 'footer-c' ) ) : ?>
 	
@@ -54,7 +54,7 @@
 
 </div><!-- .footer -->
 
-<div class="credits section bg-dark small-padding">
+<div class="credits section bg-orange small-padding">
 
 	<div class="credits-inner section-inner">
 
